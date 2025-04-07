@@ -2,6 +2,8 @@
 
 A cybersecurity demonstration tool that shows how audio can be manipulated to create misleading content by selectively extracting and recombining segments from original recordings.
 
+Created on [Sundai](https://www.sundai.club/projects/bff7fb12-04b4-4350-b0c1-86b0e7db07d6), April 6, 2025.
+
 ## ⚠️ Educational Purpose Only
 
 This tool is designed **strictly for educational and cybersecurity awareness purposes**. It demonstrates how easily media can be manipulated to create false narratives, highlighting the importance of media literacy and verification in the digital age.
