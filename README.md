@@ -1,4 +1,4 @@
-# Fake Disputes Generator
+# Fake Conversations Generator
 
 A cybersecurity demonstration tool that shows how audio can be manipulated to create misleading content by selectively extracting and recombining segments from original recordings.
 
@@ -8,7 +8,7 @@ This tool is designed **strictly for educational and cybersecurity awareness pur
 
 ## Overview
 
-The Fake Disputes Generator automates the process of:
+The Fake Conversations Generator automates the process of:
 1. Downloading audio from YouTube videos
 2. Transcribing the audio with word-level timing information
 3. Analyzing the transcript to identify segments that could be recombined to create misleading content
